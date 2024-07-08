@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao eu perfil 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/thiagokibino">
